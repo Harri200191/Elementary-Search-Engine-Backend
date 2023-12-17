@@ -6,6 +6,5 @@ Pillow
 python-dotenv
 nltk
 gunicorn
-validators 
-base64
+validators  
 
