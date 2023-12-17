@@ -3,5 +3,5 @@
 *.pdf
 *.tsv
 *.csv
-*.json
+forward_index.json
 .env
