@@ -1,0 +1,12 @@
+flask
+flask-cors
+diffusers
+torch
+Pillow
+python-dotenv
+nltk
+gunicorn
+validators
+collections
+base64
+
